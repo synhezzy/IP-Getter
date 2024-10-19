@@ -6,24 +6,7 @@ import win32api
 import requests
 import time
 
-def B10ck_K3y(): pass
-def Unb10ck_K3y(): pass
-def B10ck_T45k_M4n4g3r(): pass
-def B10ck_M0u53(): pass
-def B10ck_W3b5it3(): pass
-def St4rtup(): pass
-def Sy5t3m_Inf0(): pass
-def Op3n_U53r_Pr0fi13_53tting5(): pass
-def Scr33n5h0t(): pass
-def C4m3r4_C4ptur3(): pass
-def Di5c0rd_T0k3n(): pass
-def Di5c0rd_inj3c710n(): pass
-def Br0w53r_5t341(): pass
-def R0b10x_C00ki3(): pass
-def F4k3_3rr0r(): pass
-def Sp4m_0p3n_Pr0gr4m(): pass
-def Sp4m_Cr34t_Fil3(): pass
-def Shutd0wn(): pass
+
     
 def Clear():
     try:
